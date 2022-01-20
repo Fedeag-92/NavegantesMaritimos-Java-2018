@@ -1,7 +1,7 @@
 # NavegantesMaritimos2018
 
   Trabajo Práctico Final para la materia Estructura de Datos de la Universidad Nacional del Comahue (UNCo).
-  </br>
+  </br></br>
   ![alt imagenEjemplo](https://github.com/Fedeag-92/NavegantesMaritimos2018/blob/main/NavegantesRun.JPG?raw=true)
 ## Construido con 🛠️
 
