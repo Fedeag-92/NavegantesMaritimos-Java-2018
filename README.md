@@ -1,6 +1,6 @@
 # NavegantesMaritimos2018
 
-  Trabajo Práctico Final para la materia Estructura de Datos de la Universidad Nacional del Comahue (UNCo).
+  Trabajo Práctico Final para la materia Estructura de Datos de la Universidad Nacional del Comahue (UNCo). Se destaca el uso de estructuras de datos previamente creadas como Listas, Colas, Grafos, Arboles, etc.
   </br></br>
   ![alt imagenEjemplo](https://github.com/Fedeag-92/NavegantesMaritimos2018/blob/main/NavegantesRun.JPG?raw=true)
 ## Construido con 🛠️
